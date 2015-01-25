@@ -1,5 +1,5 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 
 print("Hello, what's your name?")
-name = raw_input("> ")
+name = input("> ")
 print("Nice to meet you, {}.".format(name))
