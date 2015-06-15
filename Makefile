@@ -1,3 +1,3 @@
-all: hello_world.cs
-	mcs hello_world.cs
+all: c_sharp.cs
+	mcs c_sharp.cs
 
